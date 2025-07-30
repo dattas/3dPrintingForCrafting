@@ -1,0 +1,1 @@
+This presentation was first given at AWU 2025. I used Obsidian and Slides Extended to create it. I have excluded in this repo any images or gifs I didn't have explicit ok or if it wasn't in their marketing materials to put into this repo so some images may be broken
